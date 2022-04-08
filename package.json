@@ -1,0 +1,20 @@
+{
+  "name": "testes-cypress-pageobject",
+  "version": "1.0.0",
+  "description": "testes-cypress-pageobject : https://vitormarinheiroautomation.medium.com/cypress-page-object-sucesso-6841cb7c19a0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreLucyo2/testes-cypress-pageobject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreLucyo2/testes-cypress-pageobject/issues"
+  },
+  "homepage": "https://github.com/AndreLucyo2/testes-cypress-pageobject#readme"
+}
