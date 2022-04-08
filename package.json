@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AndreLucyo2/testes-cypress-pageobject/issues"
   },
-  "homepage": "https://github.com/AndreLucyo2/testes-cypress-pageobject#readme"
+  "homepage": "https://github.com/AndreLucyo2/testes-cypress-pageobject#readme",
+  "devDependencies": {
+    "cypress": "^9.5.3"
+  }
 }
